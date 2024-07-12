@@ -16,6 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # set Flags
+          COMMIT_BY_ME: "Ture"
           UPDATED_DATE_FORMAT: "%b%e, %Y"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
