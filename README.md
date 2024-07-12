@@ -52,7 +52,7 @@
     <img alt="ARCore" src="https://custom-icon-badges.demolab.com/badge/ARCore-eaeaea?style=flat&logo=ARCore">
     <img alt="MRTK" src="https://custom-icon-badges.demolab.com/badge/MRTK-eaeaea?style=flat&logo=MRTK">
     <img alt="VRTK" src="https://custom-icon-badges.demolab.com/badge/VRTK-eaeaea?style=flat&logo=VRTK">
-    <img alt="XR Interaction Toolkit" src="https://custom-icon-badges.demolab.com/badge/XR Interaction Toolkit-eaeaea?style=flat&logo=vr-controller-1">
+    <img alt="XR Interaction Toolkit" src="https://custom-icon-badges.demolab.com/badge/XR Interaction Toolkit-eaeaea?style=flat&logo=vr-controller-2">
     <img alt="XR Hands" src="https://custom-icon-badges.demolab.com/badge/XR Hands-eaeaea?style=flat&logo=hand-tracking">
     <img alt="AR Foundation" src="https://custom-icon-badges.demolab.com/badge/AR Foundation-eaeaea?style=flat&logo=unity-square">
 </p>
