@@ -17,7 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # set Flags
           COMMIT_BY_ME: "Ture"
-          UPDATED_DATE_FORMAT: "%b%e, %Y"
+          UPDATED_DATE_FORMAT: "%b %e, %Y"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
