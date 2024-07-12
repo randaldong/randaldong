@@ -1,9 +1,15 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
+  # runs each push
+  push:
+      branches: [main]
+      pull_request:
+        branches: [main]
+  # runs at 12am UTC
   schedule:
-    # Runs at 12am UTC
     - cron: "0 12 * * *"
+  # allows to manually run the job at any time
   workflow_dispatch:
 jobs:
   update-readme:
@@ -14,7 +20,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Set Flags
+          # set Flags
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"

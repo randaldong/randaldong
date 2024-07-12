@@ -1,6 +1,11 @@
 name: Snake Anim
 
 on:
+  # runs each push
+  push:
+      branches: [main]
+      pull_request:
+        branches: [main]
   # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *" 
