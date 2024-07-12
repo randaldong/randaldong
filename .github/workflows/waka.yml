@@ -1,11 +1,6 @@
 name: Waka Readme Stats
 
 on:
-  # runs each push
-  push:
-      branches: [main]
-      pull_request:
-        branches: [main]
   # runs at 12am UTC
   schedule:
     - cron: "0 12 * * *"
