@@ -14,7 +14,7 @@
 
 ### I'm a **Software Engineer** specializing in
 
-- 🥽 VR/AR Development
+- 🥽 VR/AR Technologies
 - 🖼️ Computer Graphics/Vision, Rendering, 3D Animation, Physics Simulation
 - 🤖 Machine Learning, Recommender System, Data Analysis, Mathematical Modelling
 - 🕹️ Game Development
