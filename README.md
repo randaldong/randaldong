@@ -19,7 +19,7 @@
 - 🤖 Machine Learning, Recommender System, Data Analysis, Mathematical Modelling
 - 🕹️ Game Development
 - 🌐 Web Development
-- 📱 Mobile Development
+- 📱 Cross-Platform Development
 
 🔍 Always **learning** to improve and develop my skill set! 🚀
 
@@ -74,8 +74,6 @@
     <img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/Blender-eaeaea?style=flat&logo=Blender-color">
     <img alt="Maya" src="https://custom-icon-badges.demolab.com/badge/Maya-eaeaea?style=flat&logo=Maya">
     <img alt="Perforce" src="https://custom-icon-badges.demolab.com/badge/Perforce-eaeaea?style=flat&logo=Perforce-black">
-    <img alt="Android" src="https://custom-icon-badges.demolab.com/badge/Android-eaeaea?style=flat&logo=Android">
-    <img alt="IOS" src="https://custom-icon-badges.demolab.com/badge/IOS-eaeaea?style=flat&logo=apple&logoColor=black">
 </p>
 
 <h3>Machine Learning</h3>
@@ -107,6 +105,12 @@
     <img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/MongoDB-eaeaea?style=flat&logo=MongoDB">
     <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-eaeaea?style=flat&logo=MySQL-color">
     <img alt="PostgreSQL" src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-eaeaea?style=flat&logo=postgresql-color">
+</p>
+
+<h3>Cross-Platform Development</h3>
+<p>
+    <img alt="Android" src="https://custom-icon-badges.demolab.com/badge/Android-eaeaea?style=flat&logo=Android">
+    <img alt="IOS" src="https://custom-icon-badges.demolab.com/badge/IOS-eaeaea?style=flat&logo=apple&logoColor=black">
 </p>
 
 <h3>Tools</h3>
