@@ -111,6 +111,8 @@
 <p>
     <img alt="Android" src="https://custom-icon-badges.demolab.com/badge/Android-eaeaea?style=flat&logo=Android">
     <img alt="IOS" src="https://custom-icon-badges.demolab.com/badge/IOS-eaeaea?style=flat&logo=apple&logoColor=black">
+    <img alt="Raspberry Pi" src="https://custom-icon-badges.demolab.com/badge/Raspberry Pi-eaeaea?style=flat&logo=raspberry-pi-color">
+    <img alt="UWP" src="https://custom-icon-badges.demolab.com/badge/UWP-eaeaea?style=flat&logo=uwp">
 </p>
 
 <h3>Tools</h3>
