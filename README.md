@@ -213,10 +213,11 @@ Sunday                   46 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             █████████████████████░░░░   83.31 % 
+AutoHotkey               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -232,6 +233,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Feb  5, 2025 UTC
+ Last Updated on Feb  6, 2025 UTC
 <!--END_SECTION:waka-->
 </details> 
