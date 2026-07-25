@@ -213,15 +213,15 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.90 % 
-Kotlin                   2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 6 hrs 3 mins        ████████████████░░░░░░░░░   65.58 % 
+Kotlin                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Mac                      9 hrs 57 mins       ███████████████████████░░   90.34 % 
-Windows                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Mac                      8 hrs 28 mins       ███████████████████████░░   91.57 % 
+Windows                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 **I Mostly Code in C++** 
@@ -237,6 +237,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Jul 24, 2026 UTC
+ Last Updated on Jul 25, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
