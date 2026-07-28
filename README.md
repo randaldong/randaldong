@@ -213,14 +213,36 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 34 mins       ████████████████░░░░░░░░░   64.32 % 
-Kotlin                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 4 hrs 3 mins        ████████████████████░░░░░   79.89 % 
+Kotlin                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 mins (1.74%)
+
+✍️ 912 lines written by AI, 282 lines written by hand (76.38% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Cursor                   912 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 76.38% of written lines came from AI
+📝 Concise Prompter — average 452 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 40.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -236,6 +258,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Jul 27, 2026 UTC
+ Last Updated on Jul 28, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
