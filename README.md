@@ -215,15 +215,15 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 21 mins       ████████████████░░░░░░░░░   62.07 % 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Kotlin                   2 hrs 20 mins       ████████████████░░░░░░░░░   63.93 % 
+JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       ███████████████████████░░   93.34 % 
-Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Mac                      3 hrs 25 mins       ███████████████████████░░   93.09 % 
+Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -235,16 +235,16 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C#                       6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HLSL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C#                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HLSL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on Aug  1, 2026 UTC
+ Last Updated on Aug  2, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
