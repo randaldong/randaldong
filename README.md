@@ -188,6 +188,8 @@
   <summary><h3>📊 Stats and Activity</h3></summary>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2017%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -213,15 +215,15 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   6 hrs 13 mins       █████████████████░░░░░░░░   68.19 % 
-JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Gradle                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Kotlin                   7 hrs 9 mins        █████████████████░░░░░░░░   69.29 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Mac                      9 hrs 6 mins        █████████████████████████   99.83 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Mac                      9 hrs 55 mins       ████████████████████████░   95.96 % 
+Windows                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -243,6 +245,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Aug  7, 2026 UTC
+ Last Updated on Aug  8, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
