@@ -215,15 +215,15 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   7 hrs 31 mins       █████████████████░░░░░░░░   67.43 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Kotlin                   7 hrs 31 mins       ████████████████░░░░░░░░░   64.45 % 
+Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 💻 Operating System: 
-Mac                      10 hrs 17 mins      ███████████████████████░░   92.13 % 
-Windows                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Mac                      10 hrs 17 mins      ██████████████████████░░░   88.05 % 
+Windows                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,6 +245,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Aug  9, 2026 UTC
+ Last Updated on Aug 10, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
