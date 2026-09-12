@@ -188,7 +188,7 @@
   <summary><h3>📊 Stats and Activity</h3></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -215,36 +215,37 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 17 mins       ██████████████░░░░░░░░░░░   54.52 % 
-Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Kotlin                   2 hrs 29 mins       ██████████████░░░░░░░░░░░   54.96 % 
+Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       ████████████████████░░░░░   81.28 % 
-Windows                  47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Mac                      3 hrs 45 mins       █████████████████████░░░░   82.68 % 
+Windows                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (28.23%)
+⏱ AI Coding Time: 1 hr 19 mins (28.97%)
 
 ✍️ 15 lines written by AI, 53 lines written by hand (22.06% AI-written)
 
-🔤 1,842 Input Tokens, 1,842 Output Tokens
+🔤 17,101 Input Tokens, 17,101 Output Tokens
 
-💵 $0.03 Estimated AI Cost This Week
+💵 $0.16 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 20 AI Prompts
+🧠 9 AI Sessions, 24 AI Prompts
 
 Grok                     23 lines            █████████████████████████   100.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 22.06% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
+📚 Verbose Prompter — average 2,992 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 88.5% of changed lines were hand-edited
 ```
@@ -262,6 +263,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Sep 11, 2026 UTC
+ Last Updated on Sep 12, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
