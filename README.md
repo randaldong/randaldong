@@ -215,23 +215,23 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 29 mins       ██████████████░░░░░░░░░░░   54.96 % 
-Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Kotlin                   2 hrs 20 mins       █████████████░░░░░░░░░░░░   50.98 % 
+Other                    1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████░░░░   82.68 % 
-Windows                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Mac                      3 hrs 24 mins       ███████████████████░░░░░░   74.02 % 
+Windows                  1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (28.97%)
+⏱ AI Coding Time: 1 hr 19 mins (28.59%)
 
-✍️ 15 lines written by AI, 53 lines written by hand (22.06% AI-written)
+✍️ 15 lines written by AI, 49 lines written by hand (23.44% AI-written)
 
 🔤 17,101 Input Tokens, 17,101 Output Tokens
 
@@ -244,10 +244,10 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.06% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 23.44% of written lines came from AI
 📚 Verbose Prompter — average 2,992 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 88.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -263,6 +263,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Sep 12, 2026 UTC
+ Last Updated on Sep 13, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
