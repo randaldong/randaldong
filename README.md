@@ -215,21 +215,21 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 20 mins       █████████████░░░░░░░░░░░░   50.98 % 
-Other                    1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Kotlin                   2 hrs 20 mins       ███████████████░░░░░░░░░░   59.56 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       ███████████████████░░░░░░   74.02 % 
-Windows                  1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Mac                      3 hrs 24 mins       ██████████████████████░░░   86.48 % 
+Windows                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (28.59%)
+⏱ AI Coding Time: 1 hr 19 mins (33.41%)
 
 ✍️ 15 lines written by AI, 49 lines written by hand (23.44% AI-written)
 
@@ -263,6 +263,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Sep 13, 2026 UTC
+ Last Updated on Sep 14, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
