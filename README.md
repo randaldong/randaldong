@@ -215,37 +215,21 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   3 hrs 44 mins       ██████████████████░░░░░░░   72.49 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Kotlin                   3 hrs 29 mins       ██████████████████░░░░░░░   73.19 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Mac                      4 hrs 44 mins       ███████████████████████░░   92.06 % 
-Windows                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Mac                      4 hrs 22 mins       ███████████████████████░░   91.43 % 
+Windows                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (2.52%)
-
-✍️ 0 lines written by AI, 505 lines written by hand (0.0% AI-written)
-
-🔤 15,259 Input Tokens, 15,259 Output Tokens
-
-💵 $0.12 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 15,290 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -261,6 +245,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on Sep 18, 2026 UTC
+ Last Updated on Sep 19, 2026 UTC
 <!--END_SECTION:waka-->
 </details> 
